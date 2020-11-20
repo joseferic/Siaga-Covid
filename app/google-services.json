@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "985881642077",
+    "firebase_url": "https://siaga-covid-e3a33.firebaseio.com",
+    "project_id": "siaga-covid-e3a33",
+    "storage_bucket": "siaga-covid-e3a33.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985881642077:android:8277afa500ff4a3e4879b4",
+        "android_client_info": {
+          "package_name": "com.example.siaga_covid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "985881642077-dipsntnj12hff0apuabrdrn88vb12qal.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.siaga_covid",
+            "certificate_hash": "59b16f245b88f709071efc6f23f8fe59c7838185"
+          }
+        },
+        {
+          "client_id": "985881642077-aa3okv1792suo8n6ul1qha1hdtv79471.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQfrFX71OhG2MBKfwSeUbkdUdBRILbsU8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "985881642077-aa3okv1792suo8n6ul1qha1hdtv79471.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
