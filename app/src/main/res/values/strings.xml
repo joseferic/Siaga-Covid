@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Siaga-Covid</string>
+    <string name="logo">TODO</string>
+    <string name="siaga_covid">SIAGA COVID</string>
+    <string name="daftar_sekarang">Daftar sekarang</string>
+    <string name="daftar">Daftar</string>
+    <string name="email_address">Email Address</string>
+    <string name="Password">Password</string>
+    <string name="TypeUser">Personal</string>
+    <string name="sudah_punya_akun">Sudah punya akun?</string>
+    <string name="autocompletetextview">AutoCompleteTextView</string>
+    <string name="account_type">Account Type</string>
+    <string name="masuk">Masuk</string>
+    <string name="login">Login</string>
+    <string name="belum_punya_akun">Belum punya akun?</string>
+    <string name="Nama" />
+    <string name="Username">username</string>
+    <string name="username">Username</string>
+    <string name="fotoProfile">Foto Profile</string>
+    <string name="someoneEmail">someone@email.com</string>
+    <string name="someonePassword">Pas****d</string>
+    <string name="scan_qr">scan_qr</string>
+    <string name="password_icon">password_icon</string>
+    <string name="edit">Edit</string>
+    <string-array name="list_type_user">
+        <item>Personal</item>
+        <item>Owner/Employee</item>
+        <item>Medical Officer</item>
+    </string-array>
+    <string-array name="list_type_user1">
+        <item>Owner/Employee</item>
+        <item>Medical Officer</item>
+        <item>Personal</item>
+    </string-array>
+    <string-array name="list_type_user2">
+        <item>Medical Officer</item>
+        <item>Personal</item>
+        <item>Owner/Employee</item>
+    </string-array>
+</resources>

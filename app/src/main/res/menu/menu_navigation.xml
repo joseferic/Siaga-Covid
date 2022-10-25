@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/profile_user_bottom"
+        android:title="Profile"
+        android:icon="@drawable/ic_profile"/>
+    <item
+        android:id="@+id/scanner_bottom"
+        android:title="Scan now"
+        android:icon="@drawable/ic_scanqr"
+        />
+    <item
+        android:id="@+id/place_history_bottom"
+        android:title="Place History"
+        android:icon="@drawable/ic_history"/>
+
+</menu>
